@@ -12,9 +12,11 @@ A notable anomaly was identified in the Mental and Behavioural disorders special
 
 ## Project Deliverables
 - PDF report
-- Interactive HTML file
-- Google Colab notebook
-- YouTube video walkthrough
+- NHS Data Files: https://drive.google.com/drive/folders/1N7z20wEeiuI7-PEqGPs6OJ08iAD5QzGh?usp=drive_link
+- Dashboard : https://mohammedadnan04.github.io/Research_Methods_CW2_Site/
+- Interactive Diagram:  https://mohammedadnan04.github.io/Research_Methods_CW2/ 
+- Google Colab notebook : https://colab.research.google.com/drive/1UUhS-AGn_aNzYC0PKXkq67srJGp-86U-?usp=sharing 
+- YouTube video walkthrough : https://youtu.be/htcsifVx2zA?si=0A43BzlEXDPehuPB 
 
 ## Tech Stack
 - Python
@@ -31,14 +33,6 @@ A notable anomaly was identified in the Mental and Behavioural disorders special
 2. Open the `.ipynb` notebook in Google Colab
 3. Run all cells — the interactive Plotly heatmap will render inline
 4. Alternatively, open the `.html` file directly in any browser for the standalone interactive version
-
-## Resources
--URL to Screen-Capture Demo: https://youtu.be/htcsifVx2zA?si=0A43BzlEXDPehuPB 
--URL to Project Dashboard: https://mohammedadnan04.github.io/Research_Methods_CW2_Site/ 
--URL to Source Code: https://colab.research.google.com/drive/1UUhS-AGn_aNzYC0PKXkq67srJGp-86U-?usp=sharing 
--URL to Interactive Diagram:  https://mohammedadnan04.github.io/Research_Methods_CW2/ 
--URL to NHS Data Files: https://drive.google.com/drive/folders/1N7z20wEeiuI7-PEqGPs6OJ08iAD5QzGh?usp=drive_link 
--URL to github repo: https://github.com/MohammedAdnan04/Research_Methods_CW2
 
 ## Module
 COMP4037 — Research Methods
